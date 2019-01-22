@@ -1,0 +1,1 @@
+Blender scene.blend --background --python multiview_gen.py -- testmodel.off output_dir 1

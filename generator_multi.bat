@@ -1,0 +1,1 @@
+Blender scene.blend --background --python multiview_gen.py -- off_list.txt output_dir 0
