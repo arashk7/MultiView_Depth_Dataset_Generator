@@ -5,4 +5,6 @@ Requeirmens:
 -Python
 -Blender
 -Blender off-importer add-ons
-<img src="multiview.png" alt="multiview" class="inline" height="802" width="1216"/>
+
+
+<img src="multiview.png" alt="multiview" class="inline" height="535" width="811"/>
