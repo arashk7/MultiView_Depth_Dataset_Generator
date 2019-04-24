@@ -1,7 +1,7 @@
 # MultiView_Depth_Dataset_Generator
 This project is prepared for converting your 3D model dataset to a multi-view dataset.
 
-Requeirmens:
+Requirements:
 
 -Python
 
